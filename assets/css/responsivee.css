@@ -1,0 +1,8 @@
+@media (max-width: 986px) {
+  .home {
+    display: inline-block;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+  }
+}
